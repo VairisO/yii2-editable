@@ -12,15 +12,8 @@
             "homepage": "http://www.krajee.com/"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/VairisO/yii2-popover-x.git"
-        }
-    ],
     "require": {
-        "kartik-v/yii2-krajee-base": "~1.7",
-        "kartik-v/yii2-popover-x": "dev-1607-upd"
+        "kartik-v/yii2-krajee-base": "~1.7"
     },
     "autoload": {
         "psr-4": {
