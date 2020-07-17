@@ -20,7 +20,7 @@
     ],
     "require": {
         "kartik-v/yii2-krajee-base": "~1.7",
-        "kartik-v/yii2-popover-x": "dev-master"
+        "kartik-v/yii2-popover-x": "dev-1607-upd"
     },
     "autoload": {
         "psr-4": {
